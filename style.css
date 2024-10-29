@@ -46,7 +46,7 @@ small{
     h1 {
         text-align: center;
     }
-    .video iframe, .mapa iframe{
+    .video iframe, .mapa iframe, .video2 iframe{
         border: solid rgb(241, 226, 12) 12px; 
         border-radius: 16px;
     }
